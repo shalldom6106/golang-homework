@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	//指针题目1
+	//指针题目
 	num := 10
 	increaseNum(&num)
 	fmt.Println("指针的值增加10后为：", num)
